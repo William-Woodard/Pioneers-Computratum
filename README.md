@@ -6,3 +6,5 @@ The other script is for when you are busy and need protection, it uses a motion 
 Hope you like it,
 Computatrum
 Old project from 2017
+
+Read about our entry here: https://www.raspberrypi.org/blog/pioneers-winners-only-you-can-save-us/
